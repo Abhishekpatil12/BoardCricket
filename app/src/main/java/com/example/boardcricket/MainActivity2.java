@@ -37,7 +37,7 @@ public class MainActivity2 extends AppCompatActivity {
         cardView2 = findViewById(R.id.cardView2);
 
         b1 = findViewById(R.id.button);
-
+//hello
 //        mp1.setAudioStreamType(AudioManager.STREAM_MUSIC);
 //        String path1 = "android.resource://" + getPackageName() + "/raw/wdlbobsbeat";
 //
